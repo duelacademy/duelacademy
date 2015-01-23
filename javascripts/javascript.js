@@ -112,7 +112,6 @@ $(document).ready(function(){
     function(){    
         $('.tile').removeClass('fade');     
     });
-
 		
 	//Live-tile effects
 	$(".live").liveTile({pauseOnHover: true});
